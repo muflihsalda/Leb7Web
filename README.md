@@ -225,14 +225,5 @@ Tambahkan screenshot hasil input dan output program tugas.
 
 Hasil Output
 
-Contoh hasil setelah form dikirim:
-
-Nama: Budi Setiawan
-Tanggal Lahir: 1998-04-17
-Umur: 27 tahun
-Pekerjaan: Programmer
-Gaji: Rp 8.000.000
-
-Screenshot hasil tampilan di browser.
 
 <img width="453" height="445" alt="image" src="https://github.com/user-attachments/assets/2de89fac-2fba-4db7-85b6-de3e635a6f00" />
